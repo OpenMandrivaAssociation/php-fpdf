@@ -1,7 +1,7 @@
 Summary:	PHP class to generate PDF files
 Name:		php-fpdf
 Version:	1.6
-Release:	%mkrel 2
+Release:	%mkrel 3
 License:	MIT
 Group:		Development/PHP
 Source0:	fpdf16.tgz
