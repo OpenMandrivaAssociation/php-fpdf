@@ -42,7 +42,7 @@ find . -name "*.htm" \
      -name "*.png" \
      -exec chmod 644 {} \;
 
-find . -name "*.txt" -name "*.ini" -exec dos2unix -U {} \;
+find . -name "*.txt" -name "*.ini" -exec dos2unix {} \;
 
 %install
 rm -rf %{buildroot}
