@@ -64,3 +64,33 @@ cp -p FAQ.htm fpdf.css fpdf.php histo.htm install.txt license.txt %{buildroot}%{
 %{_datadir}/php/fpdf
 %{_docdir}/php-fpdf
 
+
+
+%changelog
+* Sun Jan 15 2012 Oden Eriksson <oeriksson@mandriva.com> 1.6-6mdv2012.0
++ Revision: 761227
+- rebuild
+
+* Fri May 27 2011 Oden Eriksson <oeriksson@mandriva.com> 1.6-5
++ Revision: 679255
+- mass rebuild
+
+* Sat Jan 08 2011 Oden Eriksson <oeriksson@mandriva.com> 1.6-4mdv2011.0
++ Revision: 629790
+- rebuilt for php-5.3.5
+
+* Sun Oct 24 2010 Oden Eriksson <oeriksson@mandriva.com> 1.6-3mdv2011.0
++ Revision: 588792
+- rebuild
+
+* Sat Jan 02 2010 Oden Eriksson <oeriksson@mandriva.com> 1.6-2mdv2010.1
++ Revision: 485358
+- rebuilt for php-5.3.2RC1
+
+* Wed Sep 02 2009 Stéphane Téletchéa <steletch@mandriva.org> 1.6-1mdv2010.0
++ Revision: 424070
+- Initial Mandriva release
+
+
+* Tue Sep 1 2009 Stéphane Téletchéa <steletch@mandriva.org> - 1.6-1mdv2010.0
+- Initial package for Mandriva
