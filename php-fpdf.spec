@@ -5,7 +5,7 @@ Release:	7
 License:	MIT
 Group:		Development/PHP
 Source0:	fpdf16.tgz
-URL:		http://www.fpdf.org
+URL:		https://www.fpdf.org
 
 BuildArch:	noarch
 BuildRequires:	dos2unix
